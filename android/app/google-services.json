@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179147005811",
+    "project_id": "athlete-fe086",
+    "storage_bucket": "athlete-fe086.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179147005811:android:824b93e2a671dec68f6f06",
+        "android_client_info": {
+          "package_name": "com.example.athlete"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwtPnC4i49ivUTIFek2wMnpcluzOCaohg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
